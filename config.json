@@ -1,0 +1,7 @@
+{
+    "port": 8501,
+    "mqtt":
+    {
+        "host": "mqtt://mqtt.trease.eu"
+    }
+}
